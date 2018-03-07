@@ -1,7 +1,8 @@
 {{ if .Site.Params.intro }}
-    <header class="post-header">
-        <h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
-        <p>{{ .Site.Params.description }}</p>
-        <img src="{{ .Site.Params.image }}?align-center" alt="{{ .Site.Params.title }}" />
-    </header>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name">{{ .Site.Params.headline }}</h1>
+    <p>{{ .Site.Params.description }}</p>
+
+    <img src="{{ .Site.Params.image }}?align-center" alt="{{ .Site.Params.title }}" />
+  </header>
 {{ end }}
