@@ -16,7 +16,7 @@ theme = "ghostwriter"
 
 [Params]
     intro = true
-    headline = "Fort Collins DSA"
+    headline = "Fort Collins"
     description = "Democratic Socialists of America"
     image = "/images/dsafc.jpg"
     github = "https://github.com/dsafc"
