@@ -7,8 +7,8 @@ theme = "ghostwriter"
 #googleAnalytics = "XXX"
 #disqusShortname = "XXX"
 
-#[Author]
-#    name = "My Name"
+[Author]
+    name = "Democratic Socialists of America"
 #    profile = "https://google.com/+XXX"
 
 #[Taxonomies]
