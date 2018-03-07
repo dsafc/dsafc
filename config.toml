@@ -18,6 +18,7 @@ theme = "ghostwriter"
     intro = true
     headline = "Fort Collins DSA"
     description = "Democratic Socialists of America"
+    image = "/images/dsafc.jpg"
     github = "https://github.com/dsafc"
     facebook = "https://facebook.com/DSAFortCollins"
     twitter = "https://twitter.com/DSAFortCollins"
