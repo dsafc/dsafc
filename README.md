@@ -2,7 +2,7 @@
 
 ## Overview
 
-Built on the (https://gohugo.io/ static site generator. 
+Built on the (https://gohugo.io/ static site generator.
 
 Hosted at https://dsafc.org/ using https://netlify.com/
 
@@ -37,3 +37,17 @@ brew server
 ```
 open http://localhost:1313/
 ```
+
+## Thank You So Much!
+
+## [GoHugoIO](https://gohugo.io/)
+
+For such a simple and powerful tool
+
+## http://jollygoodthemes.com [RIP]
+
+[For the original theme](https://github.com/roryg/ghostwriter)
+
+## [JBUB](https://github.com/jbub)
+
+[For migrating the theme over to hugo](https://github.com/jbub/ghostwriter)
