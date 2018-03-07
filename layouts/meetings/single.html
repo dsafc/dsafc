@@ -4,12 +4,10 @@
   <article class="post-container">
     {{ partial "page-header.html" . }}
 
-    <ul>
-      {{ range $.Site.Data.meetings }}
-        {{ partial "meetings/li.html" . }}
-      {{ end }}
-    </ul>
-
+    {{ range $.Site.Data.meetings }}
+      {{ partial "meetings/list.html" . }}
+    {{ end }}
+    
     {{ partial "page-content.html" . }}
   </article>
 </div>
