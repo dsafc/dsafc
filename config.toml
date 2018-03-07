@@ -29,3 +29,8 @@ theme = "ghostwriter"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Meetings"
+    url = "/meetings/"
+    weight = 1

@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<div class="container">
+    <article class="post-container">
+        {{ partial "page-header.html" . }}
+
+        <ul>
+          {{ range $.Site.Data.meetings }}
+             {{ partial "meetings/li.html" . }}
+          {{ end }}
+        </ul>
+
+        {{ partial "page-content.html" . }}
+    </article>
+</div>
+
+{{ partial "footer.html" . }}
