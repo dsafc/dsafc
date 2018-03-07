@@ -1,0 +1,30 @@
+baseURL = "https://dsafc.org/"
+languageCode = "en-us"
+title = "Fort Collins DSA"
+
+theme = "ghostwriter"
+
+#googleAnalytics = "XXX"
+#disqusShortname = "XXX"
+
+#[Author]
+#    name = "My Name"
+#    profile = "https://google.com/+XXX"
+
+#[Taxonomies]
+#    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "Fort Collins DSA"
+    description = "Democratic Socialists of America"
+    github = "https://github.com/dsafc"
+    facebook = "https://facebook.com/DSAFortCollins"
+    twitter = "https://twitter.com/DSAFortCollins"
+    email = "fortcollinsdsa@gmail.com"
+    dateFormat = "Apr 3, 2018. Monday"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
