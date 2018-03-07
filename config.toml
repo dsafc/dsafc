@@ -4,7 +4,7 @@ title = "Fort Collins DSA"
 
 theme = "ghostwriter"
 
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-115297157-1"
 #disqusShortname = "XXX"
 
 [Author]
