@@ -1,0 +1,20 @@
+.index-header {
+  overflow: hidden;
+}
+
+.index-title {
+  float: right;
+  width:  75%;
+}
+
+.index-image {
+  float: left;
+  width: 25%;
+}
+
+@media only screen and (max-width: 700px) {
+  .index-title, .index-image {
+    float: none;
+    width: 100%;
+  }
+}
