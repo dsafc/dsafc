@@ -1,4 +1,6 @@
 ---
+pages:
+- news/noam-chomsky.md
 hide_body: false
 fields:
 - name: title
