@@ -1,4 +1,4 @@
-baseURL = "https://dsafc.org"
+baseURL = "https://dsafc.org/"
 googleAnalytics = "UA-115297157-1"
 languageCode = "en-us"
 metadataformat = "yaml"
