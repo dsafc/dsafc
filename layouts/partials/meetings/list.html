@@ -1,6 +1,9 @@
-<h2 style="margin-bottom: 0">{{ .who }}</h2>
+<h2 style="margin-bottom: 0">
+  <a href="/meetings/{{ .Param "title" | urlize }}">{{ .Param "title" }}</a>
+</h2>
+
 <p style="margin: 0">
-  {{ .where }}
+  {{ .Param "location" }}
   <br/>
-  <i>{{ .when }}</i>
+  <i>{{ .Param "time" }}</i>
 </p>

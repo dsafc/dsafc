@@ -1,15 +1,15 @@
 {{ partial "header.html" . }}
 
-<div class="container">
-  <article class="post-container">
-    {{ partial "page-header.html" . }}
+<div id="post-index" class="container">
+  {{ partial "intro.html" . }}
 
-    {{ range $.Site.Data.meetings }}
-      {{ partial "meetings/list.html" . }}
-    {{ end }}
-    
-    {{ partial "page-content.html" . }}
-  </article>
+  <h1 style="margin-bottom: 0">{{ .Param "title" }}</h1>
+
+  <p style="margin: 0">
+    {{ .Param "location" }}
+    <br/>
+    <i>{{ .Param "time" }}</i>
+  </p>
 </div>
 
 {{ partial "footer.html" . }}
