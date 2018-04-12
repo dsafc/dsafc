@@ -1,36 +1,29 @@
 baseURL = "https://dsafc.org/"
-languageCode = "en-us"
-title = "Fort Collins DSA"
-
-theme = "ghostwriter"
-
 googleAnalytics = "UA-115297157-1"
-#disqusShortname = "XXX"
-
+languageCode = "en-us"
+theme = "ghostwriter"
+title = "Fort Collins DSA"
 [Author]
-    name = "Democratic Socialists of America"
-#    profile = "https://google.com/+XXX"
-
-#[Taxonomies]
-#    tag = "tags"
-
-[Params]
-    intro = true
-    headline = "Fort Collins"
-    description = "Democratic Socialists of America"
-    image = "/images/dsafc-transparent.png"
-    github = "https://github.com/dsafc"
-    facebook = "https://facebook.com/DSAFortCollins"
-    twitter = "https://twitter.com/DSAFortCollins"
-    email = "fortcollinsdsa@gmail.com"
-    dateFormat = "Apr 3, 2018. Monday"
-    highlightJsUrl = ""
-    highlightJsLocalUrl = ""
-
+name = "Democratic Socialists of America"
 [Permalinks]
-    post = "/:year/:month/:day/:filename/"
-
+post = "/:year/:month/:day/:filename/"
 [[menu.main]]
-    name = "Meetings"
-    url = "/meetings/"
-    weight = 1
+name = "News"
+url = "/news/"
+weight = 1
+[[menu.main]]
+name = "Meetings"
+url = "/meetings/"
+weight = 1
+[params]
+dateformat = "Apr 3, 2018. Monday"
+description = "Democratic Socialists of America"
+email = "fortcollinsdsa@gmail.com"
+facebook = "https://facebook.com/DSAFortCollins"
+github = "https://github.com/dsafc"
+headline = "Fort Collins"
+highlightjslocalurl = ""
+highlightjsurl = ""
+image = "/images/dsafc-transparent.png"
+intro = true
+twitter = "https://twitter.com/DSAFortCollins"

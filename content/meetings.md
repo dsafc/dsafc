@@ -1,5 +1,6 @@
 ---
-title: "Meetings"
-date: 2018-03-06T20:27:02-07:00
-type: "meetings"
+title: Meetings
+date: 2018-03-06 20:27:02 -0700
+type: meetings
+
 ---
