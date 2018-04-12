@@ -1,7 +1,7 @@
 ---
 pages:
-- constitution.md
 - about-us.md
+- constitution.md
 hide_body: false
 fields:
 - name: title
