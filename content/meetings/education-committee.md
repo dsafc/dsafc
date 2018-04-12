@@ -1,5 +1,5 @@
 ---
 title: "Education Committee"
-title: "Thursday 7pm"
+time: "Thursday 7pm"
 location: "TBD (Ask Ryan)"
 ---
