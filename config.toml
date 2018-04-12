@@ -5,7 +5,7 @@ metadataformat = "yaml"
 theme = "ghostwriter"
 title = "Fort Collins DSA"
 [Author]
-name = "Democratic Socialists of America"
+name = "Fort Collins Democratic Socialists of America"
 [Permalinks]
 post = "/:year/:month/:day/:filename/"
 [[menu.main]]
