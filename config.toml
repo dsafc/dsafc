@@ -11,14 +11,10 @@ post = "/:year/:month/:day/:filename/"
 [[menu.main]]
 name = "Meetings"
 url = "/meetings/"
-weight = 4
+weight = 3
 [[menu.main]]
 name = "News"
 url = "/news/"
-weight = 3
-[[menu.main]]
-name = "Archive"
-url = "/archive/"
 weight = 2
 [[menu.main]]
 name = "About Us"
