@@ -4,3 +4,4 @@ title = "Constitution"
 type = "page"
 
 +++
+[Constitution](https://docs.google.com/document/d/12d6oI2ErAdeN65iQ3h1tE8W6zt162jElpHACHW_nKis/mobilebasic)
