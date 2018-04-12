@@ -1,7 +1,7 @@
 ---
 pages:
-- about-us.md
 - constitution.md
+- about-us.md
 - news/noam-chomsky.md
 hide_body: false
 fields:
