@@ -4,4 +4,4 @@ title = "Constitution"
 type = "page"
 
 +++
-[Constitution](https://docs.google.com/document/d/12d6oI2ErAdeN65iQ3h1tE8W6zt162jElpHACHW_nKis/mobilebasic)
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQhX2U0D1yz5rdMde94wFG7BCTXVKIJ6RJJmiChCcB9Mc_mSUjL0Fhe5Hzhwx4iTmJQ8ggDGIyPY3lI/pub?embedded=true" style="width=100%; border:none"></iframe>
