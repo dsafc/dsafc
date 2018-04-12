@@ -1,5 +1,10 @@
-<header class="post-header">
+<header class="post-header" style="overflow: hidden">
+    {{ with .Param "image" }}
+      <img class="index-image" src="{{ . }}?align-center" style="margin-bottom: 20px;" />
+    {{ end}}
+
     <h1 class="post-title">{{ .Title }}</h1>
+
     {{ with .Param "subtitle" }}
       <h2 >{{ . }}</h2>
     {{ end }}
