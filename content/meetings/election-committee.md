@@ -1,5 +1,6 @@
 ---
-title: "Election Committee"
-time: "Sunday 10am"
-location: "Mugz Coffee Shop (College Ave)"
+title: Election Committee
+time: Sunday 10am
+location: Mugz Coffee Shop (College Ave)
+
 ---
