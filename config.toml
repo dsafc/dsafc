@@ -4,31 +4,34 @@ languageCode = "en-us"
 metadataformat = "yaml"
 theme = "ghostwriter"
 title = "Fort Collins DSA"
+
 [Author]
-name = "Democratic Socialists of America"
+  name = "Democratic Socialists of America"
 [Permalinks]
-post = "/:year/:month/:day/:filename/"
+  post = "/:year/:month/:day/:filename/"
+
 [[menu.main]]
-name = "Meetings"
-url = "/meetings/"
-weight = 3
+  name = "News"
+  url = "/news/"
+  weight = 2
 [[menu.main]]
-name = "News"
-url = "/news/"
-weight = 2
+  name = "About Us"
+  url = "/about-usa/"
+  weight = 1
 [[menu.main]]
-name = "About Us"
-url = "/constitution/"
-weight = 1
+  name = "About Us"
+  url = "/about-us/"
+  weight = 1
+
 [params]
-dateformat = "Apr 3, 2018. Monday"
-description = "Democratic Socialists of America"
-email = "fortcollinsdsa@gmail.com"
-facebook = "https://facebook.com/DSAFortCollins"
-github = "https://github.com/dsafc"
-headline = "Fort Collins"
-highlightjslocalurl = ""
-highlightjsurl = ""
-image = "/images/dsafc-transparent.png"
-intro = true
-twitter = "https://twitter.com/DSAFortCollins"
+  dateformat = "Apr 3, 2018. Monday"
+  description = "Democratic Socialists of America"
+  email = "fortcollinsdsa@gmail.com"
+  facebook = "https://facebook.com/DSAFortCollins"
+  github = "https://github.com/dsafc"
+  headline = "Fort Collins"
+  highlightjslocalurl = ""
+  highlightjsurl = ""
+  image = "/images/dsafc-transparent.png"
+  intro = true
+  twitter = "https://twitter.com/DSAFortCollins"
