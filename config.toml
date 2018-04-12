@@ -1,37 +1,49 @@
-baseURL = "https://dsafc.org/"
-googleAnalytics = "UA-115297157-1"
+baseURL = "https://dsafc-test.netlify.com"
 languageCode = "en-us"
-theme = "ghostwriter"
+metadataformat = "yaml"
 title = "Fort Collins DSA"
+
+theme = "ghostwriter"
+
+googleAnalytics = "UA-115297157-1"
+#disqusShortname = "XXX"
+
 [Author]
-name = "Democratic Socialists of America"
+    name = "Democratic Socialists of America"
+#    profile = "https://google.com/+XXX"
+
+#[Taxonomies]
+#    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "Fort Collins"
+    description = "Democratic Socialists of America"
+    image = "/images/dsafc-transparent.png"
+    github = "https://github.com/dsafc"
+    facebook = "https://facebook.com/DSAFortCollins"
+    twitter = "https://twitter.com/DSAFortCollins"
+    email = "fortcollinsdsa@gmail.com"
+    dateFormat = "Apr 3, 2018. Monday"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+
 [Permalinks]
-post = "/:year/:month/:day/:filename/"
+    post = "/:year/:month/:day/:filename/"
+
 [[menu.main]]
-name = "Archive"
-url = "/archive/"
-weight = 2
+    name = "About Us"
+    url = "/about-us/"
+    weight = 1
 [[menu.main]]
-name = "About Us"
-url = "/about-us/"
-weight = 1
+    name = "Archive"
+    url = "/archive/"
+    weight = 2
 [[menu.main]]
-name = "News"
-url = "/news/"
-weight = 2
+    name = "News"
+    url = "/news/"
+    weight = 3
 [[menu.main]]
-name = "Meetings"
-url = "/meetings/"
-weight = 1
-[params]
-dateformat = "Apr 3, 2018. Monday"
-description = "Democratic Socialists of America"
-email = "fortcollinsdsa@gmail.com"
-facebook = "https://facebook.com/DSAFortCollins"
-github = "https://github.com/dsafc"
-headline = "Fort Collins"
-highlightjslocalurl = ""
-highlightjsurl = ""
-image = "/images/dsafc-transparent.png"
-intro = true
-twitter = "https://twitter.com/DSAFortCollins"
+    name = "Meetings"
+    url = "/meetings/"
+    weight = 4
