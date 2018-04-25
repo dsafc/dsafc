@@ -2,6 +2,7 @@
 title: Panel Discussion - Requiem for the American Dream
 aliases:
 - "/rosa-luxemburg/"
+draft: true
 
 ---
 
