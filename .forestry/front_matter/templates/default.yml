@@ -1,8 +1,9 @@
 ---
 pages:
-- about-us.md
 - constitution.md
+- about-us.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
