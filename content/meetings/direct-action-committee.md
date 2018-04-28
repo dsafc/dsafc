@@ -1,6 +1,6 @@
 ---
-title: Direct Action Committee (Postponed)
-time: Wednesday 7pm
+title: Outreach Committee
+time: Wednesday 6pm
 location: Colorado Room (College Ave)
 
 ---
