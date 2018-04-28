@@ -1,6 +1,6 @@
 ---
 title: Outreach Committee
-time: Wednesday 6pm
+time: Wednesday 7pm
 location: Colorado Room (College Ave)
 
 ---
