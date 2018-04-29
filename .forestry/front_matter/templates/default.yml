@@ -1,8 +1,8 @@
 ---
 pages:
-- panel-discussion---requiem-for-the-american-dream-.md
-- constitution.md
 - about-us.md
+- constitution.md
+- panel-discussion---requiem-for-the-american-dream-.md
 hide_body: false
 is_partial: false
 fields:
