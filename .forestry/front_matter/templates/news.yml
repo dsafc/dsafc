@@ -7,3 +7,6 @@ fields:
 - type: text
   name: default
   label: Default
+- type: file
+  label: Colorado Teacher's Rally April 2018
+  name: colorado_teacher_s_rally_april_2018
