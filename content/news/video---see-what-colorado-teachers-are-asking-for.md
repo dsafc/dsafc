@@ -6,3 +6,5 @@ colorado_teacher_s_rally_april_2018: ''
 
 ---
 See why Colorado teachers walked out and what they are demanding.
+
+[https://youtu.be/5b4Q7Pi36bE](https://youtu.be/5b4Q7Pi36bE "https://youtu.be/5b4Q7Pi36bE")
