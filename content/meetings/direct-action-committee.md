@@ -1,6 +1,6 @@
 ---
 title: Outreach Committee
-time: 1st and 3rd Wednesdays of the month, 7pm
+time: Every other Wednesday, 7pm
 location: 'Next Mtg: 5.30.18 @ Downtown Artery'
 
 ---
