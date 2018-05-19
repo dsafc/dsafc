@@ -1,6 +1,4 @@
 ---
-pages:
-- news/video---see-what-colorado-teachers-are-asking-for.md
 hide_body: false
 is_partial: false
 fields:
@@ -10,3 +8,6 @@ fields:
 - type: file
   label: Colorado Teacher's Rally April 2018
   name: colorado_teacher_s_rally_april_2018
+pages:
+- news/fort-collins-mennonite-fellowship-community-locker-party.md
+- news/video---see-what-colorado-teachers-are-asking-for.md
