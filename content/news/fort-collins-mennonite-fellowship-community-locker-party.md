@@ -7,4 +7,4 @@ draft: true
 
 ---
   
-![](/uploads/2018/05/19/5BCB437B-9AF2-4CA2-9715-35B2A779ABBA.jpeg)[load File]( "Download File")
+![](/uploads/2018/05/19/5BCB437B-9AF2-4CA2-9715-35B2A779ABBA.jpeg)Join us to celebrate the soon-to-be-installed lockers for our homeless neighbors!
