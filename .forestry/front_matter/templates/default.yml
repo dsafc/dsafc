@@ -18,6 +18,6 @@ fields:
   hidden: false
   default: true
 pages:
-- constitution.md
-- about-us.md
-- meetings/peace-committee.md
+- content/constitution.md
+- content/about-us.md
+- content/meetings/peace-committee.md
