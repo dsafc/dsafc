@@ -1,4 +1,5 @@
 ---
+label: News
 hide_body: false
 is_partial: false
 fields:
@@ -9,5 +10,5 @@ fields:
   label: Colorado Teacher's Rally April 2018
   name: colorado_teacher_s_rally_april_2018
 pages:
-- content/news/video---see-what-colorado-teachers-are-asking-for.md
 - content/news/community-locker-party.md
+- content/news/video---see-what-colorado-teachers-are-asking-for.md
