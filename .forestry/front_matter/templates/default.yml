@@ -19,6 +19,7 @@ fields:
   hidden: false
   default: true
 pages:
+- content/news/free-brake-light-clinic.md
 - content/meetings/peace-committee.md
 - content/about-us.md
 - content/constitution.md
