@@ -3,7 +3,9 @@
 </h2>
 
 <p style="margin: 0">
-  {{ .Param "location" }}
-  <br/>
+  {{ with (.Param "location") }}
+    {{ . }}
+    <br/>
+  {{ end }}
   <i>{{ .Param "time" }}</i>
 </p>
