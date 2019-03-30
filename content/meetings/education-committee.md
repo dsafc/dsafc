@@ -1,6 +1,4 @@
 ---
 title: Education Committee
-time: Wednesday 630pm
-location: Ask Jake
-
+time: Thursday 630pm
 ---
