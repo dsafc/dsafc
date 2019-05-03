@@ -29,7 +29,7 @@ brew install hugo
 ### Start Server
 
 ```
-brew server
+hugo server
 ```
 
 ### Visit Development Site
