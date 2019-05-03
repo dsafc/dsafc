@@ -6,4 +6,8 @@ type: page
 ---
 [Constitution](/constitution/)
 
+[Bylaws](/bylaws/)
+
+[Protocols](/protocols/)
+
 [dsafortcollins@gmail.com](mailto:dsafortcollins@gmail.com)
