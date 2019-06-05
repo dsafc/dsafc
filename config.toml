@@ -9,6 +9,10 @@ name = "Fort Collins Democratic Socialists of America"
 [Permalinks]
 post = "/:year/:month/:day/:filename/"
 [[menu.main]]
+name = "Calendar"
+url = "/calendar/"
+weight = 4
+[[menu.main]]
 name = "About Us"
 url = "/about-us/"
 weight = 3
