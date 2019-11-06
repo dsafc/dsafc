@@ -20,10 +20,6 @@ weight = 3
 name = "News"
 url = "/news/"
 weight = 2
-[[menu.main]]
-name = "Meetings"
-url = "/meetings/"
-weight = 1
 [params]
 dateformat = "Apr 3, 2018. Monday"
 description = "Democratic Socialists of America"
