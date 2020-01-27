@@ -3,7 +3,7 @@ googleAnalytics = "UA-115297157-1"
 languageCode = "en-us"
 metadataformat = "yaml"
 theme = "ghostwriter"
-title = "Fort Collins DSA"
+title = "DSA Fort Collins"
 [Author]
 name = "Fort Collins Democratic Socialists of America"
 [Permalinks]
@@ -22,11 +22,11 @@ url = "/news/"
 weight = 2
 [params]
 dateformat = "Apr 3, 2018. Monday"
-description = "Democratic Socialists of America"
+description = "Fort Collins"
 email = "dsafortcollins@gmail.com"
 facebook = "https://facebook.com/DSAFortCollins"
 github = "https://github.com/dsafc"
-headline = "Fort Collins"
+headline = "Democratic Socialists of America"
 highlightjslocalurl = ""
 highlightjsurl = ""
 image = "/images/dsafc.jpg"
