@@ -10,4 +10,6 @@ type: page
 
 [Protocols](/protocols/)
 
+[Slack Guide](https://docs.google.com/document/d/1EBIacppRXBat9eAdBjvQJDyRpHMhAWbGaY1JqZtgct4/edit)
+
 [dsafortcollins@gmail.com](mailto:dsafortcollins@gmail.com)
