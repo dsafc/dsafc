@@ -1,7 +1,6 @@
 ---
 label: default
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -19,7 +18,6 @@ fields:
   hidden: false
   default: true
 pages:
-- content/news/free-brake-light-clinic.md
-- content/meetings/peace-committee.md
 - content/about-us.md
 - content/constitution.md
+- content/news/free-brake-light-clinic.md
