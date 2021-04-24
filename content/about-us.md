@@ -1,6 +1,6 @@
 ---
-title: About Us
-date: 2018-04-12 00:20:51 +0000
+title: Info
+date: '2018-04-12T00:20:51.000+00:00'
 type: page
 
 ---
