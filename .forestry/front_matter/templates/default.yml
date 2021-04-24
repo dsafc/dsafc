@@ -18,6 +18,6 @@ fields:
   hidden: false
   default: true
 pages:
-- content/about-us.md
 - content/constitution.md
 - content/news/free-brake-light-clinic.md
+- content/resources.md
