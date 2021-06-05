@@ -3,8 +3,7 @@ title: Fort Collins DSA
 type: homepage
 
 ---
-Democratic Socialists of America Fort Collins (DSAFC) is a local pre-organizing
-committee of the [Democratic Socialists of America](https://dsausa.org), the largest
+Democratic Socialists of America Fort Collins (DSAFC) is a local chapter of the [Democratic Socialists of America](https://dsausa.org), the largest
 socialist organization in the US. The DSA is a national political organization
 run democratically by members that seeks to build a mass movement and transfer
 power from the ruling elite to the working class, and gain freedom and
