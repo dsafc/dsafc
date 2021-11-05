@@ -4,8 +4,6 @@ date: '2018-04-12T00:20:51.000+00:00'
 type: page
 
 ---
-[Constitution](/constitution/)
-
 [Bylaws](/bylaws/)
 
 [Protocols, Community Guidelines, and FAQ](/protocols/ "Protocols, Community Guidelines, and FAQ")
