@@ -1,7 +1,9 @@
 +++
-date = "2019-05-02T00:11:30Z"
-title = "Constitution"
+date = "2021-11-04T00:11:30Z"
+title = "Bylaws"
 type = "page"
 
 +++
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQuq97iZn13mJwoAKolQl0wqsT8ge4_d8OzzjucCclyKMYtmUUiRaBskXt0ylsfpVPooBqLxQn3zyAT/pub?embedded=true" style="width:100%; height:100vh; border:none"></iframe>
+<iframe src="https://drive.google.com/file/d/1bqzqS4wGXE40CFnfuyqp4zvrqthAJmUl/pub?embedded=true"
+ style="width:100%; height:100vh; border:none"></iframe>
+
