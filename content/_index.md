@@ -9,7 +9,7 @@ run democratically by members that seeks to build a mass movement and transfer
 power from the ruling elite to the working class, and gain freedom and
 democratic control over all aspects of society. With direct, grassroots action,
 we are working to make democratic socialism a reality in Fort Collins, the
-nation and the world.
+nation, and the world.
 
 Our chapter has several active campaigns:
 
